@@ -5,9 +5,9 @@ lambda = [];
 nbins = [];
 plottype = 'scatter';
 contourFlag = false;
-msize  = 8;
+msize  = 4;
 marker = 'o';
-alp    = 0.2;
+alp    = 0.3;
 logy   = false;
 filled = true;
 
